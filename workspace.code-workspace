@@ -1,7 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "..\\web-scraping-challenge"
 		}
-	]
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Anaconda\\python.exe"
+	}
 }
